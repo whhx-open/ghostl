@@ -18,9 +18,9 @@ License along with this library; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-#include "circular_queue/task_completion_source.h"
-#include "circular_queue/task.h"
-#include "circular_queue/lfllist.h"
+#include <task_completion_source.h>
+#include <task.h>
+#include <lfllist.h>
 
 namespace ghostl
 {
